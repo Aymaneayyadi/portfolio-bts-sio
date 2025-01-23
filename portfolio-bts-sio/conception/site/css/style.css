@@ -80,6 +80,11 @@ section {
     grid-template-columns: 1fr;
     gap: 2rem;
     text-align: center;
+    background: url(image.web.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   
 }
 
 section {
