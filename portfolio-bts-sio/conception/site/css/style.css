@@ -129,7 +129,12 @@ background: var(--bg-color);
 
 
 
-
+h2{
+    color:#3a6cf4;
+    font-size: 1.4em;
+    font-weight: 500;
+    
+}
 
 .title {
     display: flex;
