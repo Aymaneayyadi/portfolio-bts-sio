@@ -118,27 +118,7 @@
             z-index: 1;
         }
 
-        .main > div {
-            position: relative;
-            z-index: 2;
-            animation: fadeInUp 1s ease-out;
-        }
-
-        .main h1 {
-            color: #fff;
-            font-size: 3em;
-            font-weight: 700;
-            margin-bottom: 20px;
-            line-height: 1.2;
-        }
-
-        .main h1 span {
-            color: #4e9eff;
-            font-size: 1.2em;
-            font-weight: 800;
-            display: inline-block;
-        }
-
+        
         .Social-icons {
             margin-top: 30px;
         }
@@ -686,6 +666,7 @@
 .main h1 {
   font-size: 2.5rem;
   line-height: 1.5;
+
   white-space: nowrap; /* pour empêcher le retour à la ligne automatique */
 }
 
